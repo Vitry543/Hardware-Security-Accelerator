@@ -137,8 +137,7 @@ Ciphertext: 69c4e0d86a7b0430d8cdb78070b4c55a
 
 ---
 
-<img width="1056" height="665" alt="Screenshot 2026-04-22 113532" src="https://github.com/user-attachments/assets/bd1afa23-a8e0-4e0d-8de2-c89bdcd569ec" />
-
+<img width="1059" height="656" alt="image" src="https://github.com/user-attachments/assets/ea860dd7-666f-458d-8855-10cdf45a0986" />
 
 ## 📊 FPGA Resource Utilization (Artix-7 XC7A35T)
 
