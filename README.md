@@ -84,28 +84,9 @@ hardware-security-accelerator/
 - GTKWave (optional for waveform viewing)
 - Xilinx Vivado (for synthesis/simulation)
 
-### Clone Repository
-
-```bash
-git clone https://github.com/vitry543/hardware-security-accelerator.git
-cd hardware-security-accelerator
-```
 
 ---
 
-## ▶️ Usage
-
-### Run Simulation (Icarus Verilog)
-
-```bash
-make run
-```
-
-### View Waveforms
-
-```bash
-gtkwave sim/aes_project.vcd
-```
 
 ### Vivado Simulation
 
@@ -126,6 +107,10 @@ Key:        000102030405060708090a0b0c0d0e0f
 Ciphertext: 69c4e0d86a7b0430d8cdb78070b4c55a ✓
 ```
 
+<img width="1029" height="142" alt="image" src="https://github.com/user-attachments/assets/17cfb775-929d-4c6c-b6a9-a8fa79b30a4f" />
+
+
+
 ### Security Test Cases
 
 | Test Case | Result |
@@ -136,6 +121,9 @@ Ciphertext: 69c4e0d86a7b0430d8cdb78070b4c55a ✓
 | DPA Masking | PASS ✅ |
 
 ---
+
+<img width="1029" height="142" alt="image" src="https://github.com/user-attachments/assets/7859d8bf-6ca2-4b9e-9f41-dc4711e66bf5" />
+
 
 ## 🖥️ Simulation Results
 
@@ -149,6 +137,9 @@ Ciphertext: 69c4e0d86a7b0430d8cdb78070b4c55a
 ```
 
 ---
+
+<img width="1056" height="665" alt="Screenshot 2026-04-22 113532" src="https://github.com/user-attachments/assets/bd1afa23-a8e0-4e0d-8de2-c89bdcd569ec" />
+
 
 ## 📊 FPGA Resource Utilization (Artix-7 XC7A35T)
 
