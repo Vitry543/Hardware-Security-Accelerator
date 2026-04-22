@@ -122,8 +122,7 @@ Ciphertext: 69c4e0d86a7b0430d8cdb78070b4c55a ✓
 
 ---
 
-<img width="1029" height="142" alt="image" src="https://github.com/user-attachments/assets/7859d8bf-6ca2-4b9e-9f41-dc4711e66bf5" />
-
+<img width="1040" height="313" alt="Screenshot 2026-04-22 113544" src="https://github.com/user-attachments/assets/4ef196e5-c514-4e5e-a701-01bc96517e20" />
 
 ## 🖥️ Simulation Results
 
