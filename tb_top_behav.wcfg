@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="76.149 ns"></ZoomEndTime>
+      <Cursor1Time time="20.974 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="81"></NameColumnWidth>
+      <ValueColumnWidth column_width="144"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/tb_top/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/plaintext" type="array">
+      <obj_property name="ElementShortName">plaintext[127:0]</obj_property>
+      <obj_property name="ObjectShortName">plaintext[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/key" type="array">
+      <obj_property name="ElementShortName">key[127:0]</obj_property>
+      <obj_property name="ObjectShortName">key[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/ciphertext" type="array">
+      <obj_property name="ElementShortName">ciphertext[127:0]</obj_property>
+      <obj_property name="ObjectShortName">ciphertext[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/done" type="logic">
+      <obj_property name="ElementShortName">done</obj_property>
+      <obj_property name="ObjectShortName">done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/key_in" type="array">
+      <obj_property name="ElementShortName">key_in[127:0]</obj_property>
+      <obj_property name="ObjectShortName">key_in[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/key_out" type="array">
+      <obj_property name="ElementShortName">key_out[127:0]</obj_property>
+      <obj_property name="ObjectShortName">key_out[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/key_valid" type="logic">
+      <obj_property name="ElementShortName">key_valid</obj_property>
+      <obj_property name="ObjectShortName">key_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/access_violation" type="logic">
+      <obj_property name="ElementShortName">access_violation</obj_property>
+      <obj_property name="ObjectShortName">access_violation</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/fault_flag" type="logic">
+      <obj_property name="ElementShortName">fault_flag</obj_property>
+      <obj_property name="ObjectShortName">fault_flag</obj_property>
+   </wvobject>
+</wave_config>
